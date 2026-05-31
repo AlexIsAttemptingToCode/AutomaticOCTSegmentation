@@ -113,4 +113,10 @@ auto/manual masks under `masks/`.
 
 ---
 
+**Chiu, S. J., Allingham, M. J., Mettu, P. S., Cousins, S. W., Izatt, J. A.,
+  & Farsiu, S.** (2015). Kernel regression based segmentation of optical
+  coherence tomography images with diabetic macular edema.
+  *Biomedical Optics Express*, **6**(4), 1172–1194.
+  doi:[10.1364/BOE.6.001172](https://doi.org/10.1364/BOE.6.001172)
+
 Full list of references can be found in `proj_notebook.ipynb`
